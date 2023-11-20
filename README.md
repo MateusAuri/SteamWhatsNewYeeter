@@ -14,3 +14,5 @@ Use instructions:
 There's a chance you may need to allow a "suspicious downloads" popup from your browser and/or run it as admin, but that's just common safety measures for third-party scripts. 
 
 The files are clean. Check the code yourself, run them through [VirusTotal](https://www.virustotal.com/gui/) or whatever. Just please don't contact me asking about false positives. Inane requests will be duly ignored.
+
+I'll try to keep this updated whenever Steam changes its files around, but no promises...
