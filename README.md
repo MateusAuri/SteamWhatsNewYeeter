@@ -16,7 +16,7 @@ You may want to create a shortcut to the BAT file for easier access in the futur
 
 ## How do I download it?
 - Through the [latest release](https://github.com/MateusAuri/SteamWhatsNewYeeter/releases/latest), the [ZIP](https://github.com/MateusAuri/SteamWhatsNewYeeter/releases/latest/download/SteamWhatsNewYeeter.zip) file contains both script files, you just gotta extract them to the "css" folder before using
-- Or you could download both raw script files directly by right clicking and "Save link as...": [BAT](https://raw.githubusercontent.com/MateusAuri/SteamWhatsNewYeeter/zip/SteamWhatsNewYeeter.bat) | [PS1](https://raw.githubusercontent.com/MateusAuri/SteamWhatsNewYeeter/zip/SteamWhatsNewYeeter.ps1)
+- Or you could download both raw script files directly by right clicking and "Save link as...": [BAT](https://raw.githubusercontent.com/MateusAuri/SteamWhatsNewYeeter/latest/SteamWhatsNewYeeter.bat) | [PS1](https://raw.githubusercontent.com/MateusAuri/SteamWhatsNewYeeter/latest/SteamWhatsNewYeeter.ps1)
 
 There's a chance you may need to allow a "suspicious downloads" popup from your browser and/or run it as admin, but that's just common safety measures for third-party scripts. 
 
