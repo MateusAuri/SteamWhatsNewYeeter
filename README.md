@@ -1,10 +1,11 @@
-# Steam Library's "What's New" Yeeter
+MateusAuri's
+# Steam Library 'What's New' Yeeter script
+[CHANGELOG](https://github.com/MateusAuri/SteamWhatsNewYeeter/blob/latest/CHANGELOG.md)
 
 ## What's this?
-- This batch/powershell script hides that annoying "What's New" section from your Steam Library (on Windows)
+- This batch/powershell script hides that annoying "What's New" shelf or section from your Steam Library (on Windows)
 
 ## How do I use it?
-- Exit Steam
 - Navigate to your Steam install directory (usually "C:\Program Files (x86)\Steam")
 - Go into "steamui\css"
 - Drop both BAT and PS1 files in the "css" folder (it should be in the same folder as "chunk~2dcc5aaf7.css")
