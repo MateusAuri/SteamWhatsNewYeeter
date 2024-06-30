@@ -24,6 +24,9 @@ The files are clean. Check the code yourself, run them through [VirusTotal](http
 
 I'll try to keep this updated whenever Steam changes its files around, but no promises...
 
+## What if I am on Linux?
+I haven't tested it, but you can try [eliwss0's bash script fork](https://github.com/eliwss0/SteamWhatsNewYeeter).
+
 ### If I somehow helped you and you *really* wanna thank me, consider sending a dollar or so my way, because I'm broke af right now:
 
 [PayPal](https://www.paypal.com/donate/?business=NA4SGGWAQHFEJ) | [Ko-fi](https://ko-fi.com/mateusauri) | [BuyMeACoffee](https://www.buymeacoffee.com/mateusauri)
