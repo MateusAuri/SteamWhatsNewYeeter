@@ -1,6 +1,7 @@
 MateusAuri's
 # Steam Library 'What's New' Yeeter script
 [CHANGELOG](https://github.com/MateusAuri/SteamWhatsNewYeeter/blob/latest/CHANGELOG.md)
+
 Tested and still working as of 2025-07-04
 
 ## What's this?
