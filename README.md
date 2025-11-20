@@ -2,7 +2,7 @@ MateusAuri's
 # Steam Library 'What's New' Yeeter script
 [CHANGELOG](https://github.com/MateusAuri/SteamWhatsNewYeeter/blob/latest/CHANGELOG.md)
 
-Tested and still working on stable client branch (v1759461205, build date Oct 3 2025).
+Tested and still working on stable client branch (v1763422420, build date Nov 17 2025).
 
 ## What's this?
 - This batch/powershell script hides that annoying "What's New" shelf or section from your Steam Library (on Windows)
