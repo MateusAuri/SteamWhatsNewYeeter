@@ -45,4 +45,4 @@ But no biggie! All you need to do is run the script again (or wait for a new ver
 
 ### If you *really* liked this script and you *really* wanna thank me, consider sending a dollar or so my way, because I'm still kinda broke, but no pressure... I *am* aware that this script is just a tiny convenience that solves a very insignificant annoyance.
 
-[PayPal](https://www.paypal.com/donate/?business=NA4SGGWAQHFEJ) | [Ko-fi](https://ko-fi.com/mateusauri) | [BuyMeACoffee](https://www.buymeacoffee.com/mateusauri)
+[PayPal](https://paypal.com/donate/?business=NA4SGGWAQHFEJ) | [Ko-fi](https://ko-fi.com/mateusauri) | [BuyMeACoffee](https://buymeacoffee.com/mateusauri) | [Liberapay](https://liberapay.com/MateusAuri)
