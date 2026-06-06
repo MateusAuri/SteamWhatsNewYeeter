@@ -1,6 +1,6 @@
 MateusAuri's
 # Steam Library 'What's New' Yeeter script
-[CHANGELOG](https://github.com/MateusAuri/SteamWhatsNewYeeter/blob/latest/CHANGELOG.md)
+[CHANGELOG](https://github.com/MateusAuri/SteamWhatsNewYeeter/blob/main/CHANGELOG.md)
 
 Updated, now working on stable client branch (v1780352834, build date Jun 01 2026).
 
