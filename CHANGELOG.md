@@ -1,5 +1,10 @@
 # Changelog
 
+## TODO
+- `closesteam` function checks twice for processes, fix that
+  - I had changed that already but then ctrl+Z'd it out accidentaly and just noticed it
+  - leaving this memo here because I don't wanna make another release just for that
+
 ## 202606060230
 - Now working with stable client v1780352834, build date Jun 01 2026
   - *it seems that a recent update added different heights for the WN shelf depending on the display size in the settings*
