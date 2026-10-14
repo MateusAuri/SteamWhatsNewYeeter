@@ -4,6 +4,11 @@
 - `closesteam` function checks twice for processes, fix that
   - I had changed that already but then ctrl+Z'd it out accidentaly and just noticed it
   - leaving this memo here because I don't wanna make another release just for that
+  - forgot to fix this again, uuugh
+
+## 202610141405
+- Now working with stable client v1791918634, build date Oct 13 2026
+  - Hotfix for new css filename. `chunk~2dcc5aaf7.css` became `sp.css`.
 
 ## 202606060230
 - Now working with stable client v1780352834, build date Jun 01 2026
