@@ -1,6 +1,6 @@
 $host.ui.RawUI.WindowTitle = "'What's New' Yeeter by MateusAuri"
-$lastupdated = 202606060230
-$targetfilename = "chunk~2dcc5aaf7.css"
+$lastupdated = 202610141405
+$targetfilename = "sp.css"
 $targetclassname = "_17uEBe5Ri8TMsnfELvs8-N"
 <#
 
